@@ -1,4 +1,7 @@
 /*
+  Just a network used for other strutures
+
+
   most basic class for structure
   contains pointers to neighbours (and derfore no boundary conditions)
   also option to endure structure with second derivative
