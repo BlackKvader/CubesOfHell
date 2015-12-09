@@ -1,8 +1,7 @@
 Some ideas
 
 #1
-Tstructure is from different Tobj. 
-Than when it broke, you should be able to repair it. 
-Or it will try to repair itself.
-You just have to provide enought cubes
+Tstructure is from different Tobj. Than when it broke, you should be able to repair it. Or it will try to repair itself. You just have to provide enought cubes and you can start to build.
 
+#2
+AI will have different possibilities based on what it see. Possibilities are automaticali generated and add to the space in map. It will network of possibilities.
