@@ -14,3 +14,5 @@ Aiming system is like this:
 When you just click, you will shoot to that position. Balisticali
 If you hold, you can also increase the speed.
 Maybe different number of clicks for different shots
+
+Gward
