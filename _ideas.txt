@@ -6,3 +6,11 @@ Than when it broke, you should be able to repair it.
 Or it will try to repair itself.
 You just have to provide enought cubes
 
+#2
+Players can jump high
+
+#3
+Aiming system is like this:
+When you just click, you will shoot to that position. Balisticali
+If you hold, you can also increase the speed.
+Maybe different number of clicks for different shots
