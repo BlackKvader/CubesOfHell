@@ -1,0 +1,5 @@
+ObjConect[num]Network is Tcube. It has pointers to Tobj
+Tobj has a pointers to Tstructure and its location in pointer to Tcube.
+Tstructure is a virtual class. And its childrens are Tcharacter, Twater, Tbuilding, and practicaly everything.
+
+Another important class is Tzoznam. It is a dynamic list of anything. A suppose that there have to be lot of different tipes of Tzoznams with different features.
