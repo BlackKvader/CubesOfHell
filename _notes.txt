@@ -1,0 +1,4 @@
+// mostly programing notes 
+
+#1
+you can just write class Tcube; and you can use pointers to Tcube, and declare class later. Not tested jet, hope it works :) it make sense.

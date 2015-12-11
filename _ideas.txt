@@ -1,5 +1,12 @@
 Some ideas
 
+#-1
+You can just allow to have two objects inside one Tcube. Than just decide which will interact through distance. But just the Tobj from same structure. than they also interact inside. Not best but fast and should work.
+
+#0
+!! Tcube will be T9cube, which will consist of all surrounding cubes. this way you can make real interactions. but calculate a lot.
+Maybe rather include pair potentials. before hit there is already repulsive force (with some limits). than come the hit.
+
 #1
 Tstructure is from different Tobj. Than when it broke, you should be able to repair it. Or it will try to repair itself. You just have to provide enought cubes and you can start to build.
 
