@@ -1,0 +1,7 @@
+# Well, there are always some problems :)
+
+#1
+You have Tobj in the same structure but they are not conected. Than they should not enter the same Tcube. In that situation is point not alowed to go somewhere where it is not conected, and if that point is inside with another point, there will be repulsive potential between them. Hard to say how much repulsive, and how it will work. Open question.
+
+#2
+How tu calculate force just onece. Maybe it's better to store it. Later it will be complicated to calculate.
