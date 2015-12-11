@@ -1,0 +1,5 @@
+### GLOBAL RULES FOR NAMEING OF EVERYTHING  ###
+
+# bool
+bool_some_name	is used for setings. If it is one than is some_name calculated
+is_some_name	is 1 when some_name is calculated and 0 when it is not.
