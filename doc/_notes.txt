@@ -1,0 +1,7 @@
+// mostly programing notes 
+
+#1
+you can just write class Tcube; and you can use pointers to Tcube, and declare class later. Not tested jet, hope it works :) it make sense.
+
+#2
+k is specific for every Tobj. Than when two Tobj are conected, it calculates average and use it.
