@@ -1,0 +1,11 @@
+Ako to aj naozaj spravit
+
+Cele to bude na sestuholnikovej siety. Ked dám sipku tak sa na dané miesto posúvam. Ak teda dám dolava (A) tak spravim krok bokom na policko po mojej lavici. Otoceny som vzdy smerom k myske. Kedze je to takto nasektorovane, da sa pomerne lahko hybat hore dole, určiť či na dané miesto môžem vyliezť alebo nie. Tak isto aj či tam môžem vyskočiť.
+
+Áno, stráca sa fyzika, zároveň však zostáva viac miesta na normálnu grafiku a ostatné veci. Po dľhšom uvažovaní som oveľa viac za niečo podobné realtime board game.Teoreticky môže byť mód že keď nič nerobím, neplinie čas a teda všetko stojí.
+
+Musia byť mynimálne dve škály - plavba a keď sa hýbem na ostrove. Oby prešiel jeden deň na mori mám niekoľko akcií. Na súši sa však môžem pohybovať o niečo viac.
+
+Aj tu sa dajú spraviť srandičky typu letiaci stôl v krčme :D. Základná fyzika odrazov by mohla fungovať aspoň v menšej miere.
+
+Otáčanie figúrok za myškou môže byť tak, že sa reaguje okamžite, ale figurka sa otáča s animáciou a potom zostane otočená v danom smere. 
